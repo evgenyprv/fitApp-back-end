@@ -1,2 +1,2 @@
 # fitApp-back-end
-Back end of the fitness web application
+This is AWS Lambda's functions that compomise the back end of the fitness web application.
